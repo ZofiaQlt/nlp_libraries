@@ -2,7 +2,7 @@
 
 <img width="438" alt="Capture d’écran 2023-05-15 à 13 29 20" src="https://github.com/ZofiaQlt/nlp_libraries_tweets_analysis/assets/67431758/08ec334a-da86-4ea0-bff2-e5bb4d0501d5">
 
-Through this project, we'll experiment with the world of Natural Language Processing (NLP) by exploring libraries: NLTK (Natural Language Toolkit) and spaCy.
+Through this project, we'll experiment with the world of Natural Language Processing (NLP) by exploring libraries NLTK (Natural Language Toolkit) and spaCy.
 NLP analysis can provide valuable insights that can be used for brand reputation management, market research, social media monitoring, fraud detection, and more.
 
 We'll be handling tasks such as text preprocessing, tokenization, lemmatization, part-of-speech tagging, and named entity recognition, among others. By leveraging these libraries, we can gain a deeper understanding of the underlying linguistic patterns and structures within the text data.
