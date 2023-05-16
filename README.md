@@ -19,7 +19,7 @@ Our exploration will involve implementing these techniques on the "Monty Python 
 <img width="664" alt="Capture d’écran 2023-05-15 à 14 02 28" src="https://github.com/ZofiaQlt/nlp_libraries_tweets_analysis/assets/67431758/286918c6-9769-425f-9cbe-0f441dc04a31">
 <br>
 
-### Parser
+### Parser 
 
 <img width="1673" alt="Capture d’écran 2023-05-15 à 14 28 04" src="https://github.com/ZofiaQlt/nlp_libraries_tweets_analysis/assets/67431758/bd3e0115-9520-4e2a-85ae-f030b8d1b142">
 
